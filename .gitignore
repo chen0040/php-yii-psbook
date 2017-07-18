@@ -1,6 +1,6 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+pslink/assets/*
+!pslink/assets/.gitignore
+pslink/protected/runtime/*
+!pslink/protected/runtime/.gitignore
+pslink/protected/data/*.db
+pslink/themes/classic/views/
